@@ -29,7 +29,8 @@ Projeto em React Native desenvolvido como Atividade do curso de Técnico em info
 
 ## Funcionalidades:
 
-+ Login/Logout
++ Cronometrar o tempo
++ Marcar as voltas
 
 ## Tecnologias utilizadas:
 
