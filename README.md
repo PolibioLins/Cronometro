@@ -51,3 +51,28 @@ Projeto em React Native desenvolvido como Atividade do curso de Técnico em info
 <hr>
 
 ## Páginas:
+
+<p><strong>Etapa 1</strong></p>
+
+<img src="https://github.com/PolibioLins/Cronometro/blob/master/src/Imagens/Cronometro1.png"></img>
+
+<p><strong>Etapa 2</strong></p>
+
+<img src="https://github.com/PolibioLins/Cronometro/blob/master/src/Imagens/Cronometro2.png"></img>
+
+<p><strong>Etapa 3</strong></p>
+
+<img src="https://github.com/PolibioLins/Cronometro/blob/master/src/Imagens/Cronometro3.png"></img>
+
+<p><strong>Etapa 4</strong></p>
+
+<img src="https://github.com/PolibioLins/Cronometro/blob/master/src/Imagens/Cronometro4.png"></img>
+
+
+
+
+
+
+
+
+
